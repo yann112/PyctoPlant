@@ -1,2 +1,3 @@
 # PyctoPlant
-Projet fil rouge formation datascientist
+Projet fil rouge formation datascientist 
+Reconnaissance d'images de plantes. 
